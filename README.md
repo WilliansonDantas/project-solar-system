@@ -33,6 +33,16 @@ Clone o repositório:
   * `npm install`
   * `npm start` 
 
+-----
+
+## 🛠️ Ferramentas & Metodologias Utilizadas
+
+  - [React.js](https://reactjs.org/docs/getting-started.html);
+  - [Context API e Hooks](https://reactjs.org/docs/hooks-intro.html?).
+
+-----
+
+⌨️ Desenvolvido por [Willianson Dantas](https://www.linkedin.com/in/willianson-dantas/)
 
 <!-- 
 -->
