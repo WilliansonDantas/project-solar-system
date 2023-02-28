@@ -57,49 +57,10 @@ As imagens dos planetas e as informações das missões são fornecidas no proje
   - Data de entrega para avaliação final do projeto: `16/05/2022 14:00`.
 ---
 
-# Observações técnicas
-
-Você já aprendeu a criar componentes React, e nesse projeto vamos praticar muito essa habilidade. Crie todos os seus componentes em arquivos separados, na pasta **src/components**, no formato *_NomeDoComponente.js_*. Isso é fundamental para que os testes funcionem corretamente.
-
-# Instruções para entregar seu projeto
-
-## Antes de começar a desenvolver
-
-1. Clone o repositório
-  * `git clone git@github.com:tryber/sd-021-b-project-solar-system.git`.
-  * Entre na pasta do repositório que você acabou de clonar:
+  * `git clone git@github.com:tryber/sd-021-b-project-solar-system.git`
     * `cd sd-021-b-project-solar-system`
-
-2. Instale as dependências e inicialize o projeto
-  * Instale as dependências:
     * `npm install`
-  * Inicialize o projeto:
-    * `npm start` (uma nova página deve abrir no seu navegador com um texto simples)
-  * Verifique que os testes estão executando:
-    * `npm test` (os testes devem rodar e falhar)
-
-3. Crie uma branch a partir da branch `master`
-
-  * Verifique que você está na branch `master`
-    * Exemplo: `git branch`
-  * Se não estiver, mude para a branch `master`
-    * Exemplo: `git checkout master`
-  * Agora, crie uma branch onde você vai guardar os commits do seu projeto
----
-
-## Durante o desenvolvimento
-
-* Faça `commits` das alterações que você fizer no código regularmente
-
-* Lembre-se de sempre após um (ou alguns) `commits` atualizar o repositório remoto
-
-* Os comandos que você utilizará com mais frequência são:
-  1. `git status` _(para verificar o que está em vermelho - fora do stage - e o que está em verde - no stage)_
-  2. `git add` _(para adicionar arquivos ao stage do Git)_
-  3. `git commit` _(para criar um commit com os arquivos que estão no stage do Git)_
-  4. `git push -u origin nome-da-branch` _(para enviar o commit para o repositório remoto na primeira vez que fizer o `push` de uma nova branch)_
-  5. `git push` _(para enviar o commit para o repositório remoto após o passo anterior)_
-
+    * `npm start` 
 ---
 
 ## Depois de terminar o desenvolvimento (opcional)
