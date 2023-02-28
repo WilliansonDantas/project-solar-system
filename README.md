@@ -1,6 +1,6 @@
 # :sunny: Projeto Sistema Solar!
 
-Exibe um modelo do sistema solar com informações sobre missões espaciais.
+A aplicação simula uma visualização do **Sistema Solar**, bem como informações sobre diversas missões espacias que ocorreram ao longo da história.
 
 ![img](https://g3i5r4x7.rocketcdn.me/wp-content/uploads/2020/10/sistema-solar-origem-composicao-principais-astros-e-caracteristicas-1.jpg)
 
