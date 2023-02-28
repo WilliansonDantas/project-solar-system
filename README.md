@@ -28,10 +28,12 @@ A aplicação simula uma visualização do **Sistema Solar**, bem como informaç
 
 Clone o repositório:
 
-  * `git clone git@github.com:tryber/sd-021-b-project-solar-system.git`
-  * `cd sd-021-b-project-solar-system`
-  * `npm install`
-  * `npm start` 
+```
+git clone git@github.com:tryber/sd-021-b-project-solar-system.git
+cd sd-021-b-project-solar-system
+npm install
+npm start
+```
 
 -----
 
