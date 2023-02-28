@@ -33,23 +33,6 @@ A aplicação simula uma visualização do **Sistema Solar**, bem como informaç
     * `npm install`
     * `npm start` 
 
-# Como desenvolver
-
-## ESLint e Stylelint
-
-Para garantir a qualidade do código, vamos utilizar neste projeto os linters `ESLint` e `Stylelint`.
-Assim o código estará alinhado com as boas práticas de desenvolvimento, sendo mais legível e de fácil manutenção! Para rodá-los localmente no projeto, execute os comandos abaixo:
-
-```bash
-npm run lint
-npm run lint:styles
-```
-
-Em caso de dúvidas, confira o material do course sobre [ESLint e Stylelint](https://app.betrybe.com/course/real-life-engineer/eslint).
-
-⚠️ Lembre-se que o seu projeto só será avaliado se estiver passando pelos **checks** dos **linters**.
-
----
 
 ## Execução de testes unitários
 
