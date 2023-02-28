@@ -37,8 +37,7 @@ Clone o repositório:
 
 ## 🛠️ Ferramentas & Metodologias Utilizadas
 
-  - [React.js](https://reactjs.org/docs/getting-started.html);
-  - [Context API e Hooks](https://reactjs.org/docs/hooks-intro.html?).
+  - [React.js](https://reactjs.org/docs/getting-started.html).
 
 -----
 
