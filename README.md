@@ -1,6 +1,6 @@
 # :sunny: Projeto Sistema Solar!
 
-Exibe um modelo do sistema solar com informações sobre missões espaciais.!
+Exibe um modelo do sistema solar com informações sobre missões espaciais.
 
 ![img](https://g3i5r4x7.rocketcdn.me/wp-content/uploads/2020/10/sistema-solar-origem-composicao-principais-astros-e-caracteristicas-1.jpg)
 
@@ -18,7 +18,7 @@ Exibe um modelo do sistema solar com informações sobre missões espaciais.!
 
   * Criar múltiplos componentes a partir de um array
 
-  * Fazer uso de `props` corretamente
+  * Fazer uso de `props`
 
   * Fazer uso de `PropTypes` para validar as `props de um componente`
 
@@ -27,29 +27,6 @@ Exibe um modelo do sistema solar com informações sobre missões espaciais.!
 
 
 <!-- 
-
-
-
----
-
-# Entregáveis
-
-## O que deverá ser desenvolvido
-
-Neste projeto você vai desenvolver um modelo do sistema solar! Ao utilizar essa aplicação uma pessoa usuária deverá ser capaz de:
-
-  * Visualizar todos os planetas do sistema solar renderizados na tela;
-
-  * Visualizar todas as cartas com informações sobre missões espaciais;
-
-Ao final deste projeto, sua aplicação deverá ser algo semelhante a essa [imagem](https://www.figma.com/file/vcire16CytAa1QWrriuunm/Sistema-Solar?node-id=0%3A1).
-
-Caso queira utilizar a mesma imagem de fundo apresentada no figma, ela está sendo disponibilizada dentro da pasta `src/images`.
-
-Para entregar o seu projeto você deverá criar um Pull Request neste repositório.
-
-Lembre-se que você pode consultar nosso conteúdo sobre Git & GitHub no Course sempre que precisar
-
 ## Desenvolvimento
 
 Você deve desenvolver uma aplicação em React com criação de componentes de classe e passagem de props. Essa aplicação simulará uma visualização do **Sistema Solar**, bem como informações sobre diversas missões espacias que ocorreram ao longo da história.
