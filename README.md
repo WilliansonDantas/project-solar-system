@@ -27,37 +27,11 @@ A aplicação simula uma visualização do **Sistema Solar**, bem como informaç
 
 
 <!-- 
-## Desenvolvimento
-
-Você deve desenvolver uma aplicação em React com criação de componentes de classe e passagem de props. Essa aplicação simulará uma visualização do **Sistema Solar**, bem como informações sobre diversas missões espacias que ocorreram ao longo da história.
-
-As imagens dos planetas e as informações das missões são fornecidas no projeto. Você terá que desenvolver os componentes necessários para exibi-las na tela, conforme o descrito nos requisitos.
-
-## Data de Entrega
-
-  - Projeto individual.
-
-  - Serão `1` dias de projeto.
-  
-  - Data de entrega para avaliação final do projeto: `16/05/2022 14:00`.
----
 
   * `git clone git@github.com:tryber/sd-021-b-project-solar-system.git`
     * `cd sd-021-b-project-solar-system`
     * `npm install`
     * `npm start` 
----
-
-## Depois de terminar o desenvolvimento (opcional)
-
-Para **"entregar"** seu projeto, siga os passos a seguir:
-
-* Vá até a página **DO SEU** _Pull Request_, adicione a label de _"code-review"_ e marque seus colegas
-  * No menu à direita, clique no _link_ **"Labels"** e escolha a _label_ **code-review**
-  * No menu à direita, clique no _link_ **"Assignees"** e escolha **o seu usuário**
-  * No menu à direita, clique no _link_ **"Reviewers"** e digite `students`, selecione o time `tryber/students-sd-00`
-
----
 
 # Como desenvolver
 
