@@ -1,40 +1,9 @@
 # :sunny: Projeto Sistema Solar!
 
-![img](https://media3.giphy.com/media/APq0WQXgQQrKFcBbjP/giphy.gif?cid=ecf05e4778no372t1gbw61lrahn86j1fy1lvok2elx7h9afe&rid=giphy.gif&ct=g)
+![img](https://www.figma.com/file/vcire16CytAa1QWrriuunm/Sistema-Solar?node-id=0%3A1)
 
 
 <!-- 
-# Sumário
-
-- [Boas vindas ao repositório do projeto Sistema Solar!](#boas-vindas-ao-repositório-do-projeto-sistema-solar)
-- [Sumário](#sumário)
-- [Habilidades](#habilidades)
-- [Entregáveis](#entregáveis)
-  - [O que deverá ser desenvolvido](#o-que-deverá-ser-desenvolvido)
-  - [Desenvolvimento](#desenvolvimento)
-  - [Data de Entrega](#data-de-entrega)
-- [Observações técnicas](#observações-técnicas)
-- [Instruções para entregar seu projeto](#instruções-para-entregar-seu-projeto)
-  - [Antes de começar a desenvolver](#antes-de-começar-a-desenvolver)
-  - [Durante o desenvolvimento](#durante-o-desenvolvimento)
-  - [Depois de terminar o desenvolvimento (opcional)](#depois-de-terminar-o-desenvolvimento-opcional)
-- [Como desenvolver](#como-desenvolver)
-  - [ESLint-e-Stylelint](#eslint-e-stylelint)
-  - [Execução de testes unitários](#execução-de-testes-unitários)
-- [Requisitos do projeto](#requisitos-do-projeto)
-  - [1. Crie um componente chamado `Header`](#1-crie-um-componente-chamado-header)
-  - [2. Crie um componente chamado `SolarSystem`](#2-crie-um-componente-chamado-solarsystem)
-  - [3. Crie um componente chamado `Title`](#3-crie-um-componente-chamado-title)
-  - [4. Renderize o componente `Title` dentro do componente `SolarSystem`](#4-renderize-o-componente-Title-dentro-do-componente-SolarSystem)
-  - [5. Crie um componente chamado `PlanetCard`](#5-crie-um-componente-chamado-planetcard)
-  - [6. Renderize uma lista com os planetas do Sistema Solar](#6-renderize-uma-lista-com-os-planetas-do-sistema-solar)
-  - [7. Crie um componente chamado `Missions`.](#7-crie-um-componente-chamado-missions)
-  - [8. Renderize o componente `Title` dentro do componente `Missions`](#8-renderize-o-componente-Title-dentro-do-componente-Missions)
-  - [9. Crie um componente chamado `MissionCard`](#9-crie-um-componente-chamado-MissionCard)
-  - [10. Renderize uma lista com as missões espaciais](#10-renderize-uma-lista-com-as-missões-espaciais)
-- [Avisos Finais](#avisos-finais)
-
----
 
 # Habilidades
 Neste projeto, verificamos se você é capaz de:
