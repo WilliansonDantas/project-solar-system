@@ -6,7 +6,7 @@ A aplicação simula uma visualização do **Sistema Solar**, bem como informaç
 
 -----
 
-# Habilidades
+## Habilidades
 
   - Utilizar JSX no React
   - Criar componentes de classe em React
