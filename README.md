@@ -1,12 +1,10 @@
 # :sunny: Projeto Sistema Solar!
 
-![img](https://www.figma.com/file/vcire16CytAa1QWrriuunm/Sistema-Solar?node-id=0%3A1)
+![img](https://g3i5r4x7.rocketcdn.me/wp-content/uploads/2020/10/sistema-solar-origem-composicao-principais-astros-e-caracteristicas-1.jpg)
 
-
-<!-- 
+-----
 
 # Habilidades
-Neste projeto, verificamos se você é capaz de:
 
   * Utilizar JSX no React
 
@@ -21,6 +19,14 @@ Neste projeto, verificamos se você é capaz de:
   * Fazer uso de `props` corretamente
 
   * Fazer uso de `PropTypes` para validar as `props de um componente`
+
+-----
+
+
+
+<!-- 
+
+
 
 ---
 
