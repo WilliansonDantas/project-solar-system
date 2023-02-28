@@ -1,6 +1,6 @@
 # Projeto Sistema Solar!
 
-![img](https://giphy.com/gifs/nasa-nasagif-tess-APq0WQXgQQrKFcBbjP)
+![img](https://media3.giphy.com/media/APq0WQXgQQrKFcBbjP/giphy.gif?cid=ecf05e4778no372t1gbw61lrahn86j1fy1lvok2elx7h9afe&rid=giphy.gif&ct=g)
 
 
 <!-- ### Termos e acordos
