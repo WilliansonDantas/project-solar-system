@@ -1,23 +1,9 @@
-# :ringed_planet: Projeto Sistema Solar!
+# :sunny: Projeto Sistema Solar!
 
 ![img](https://media3.giphy.com/media/APq0WQXgQQrKFcBbjP/giphy.gif?cid=ecf05e4778no372t1gbw61lrahn86j1fy1lvok2elx7h9afe&rid=giphy.gif&ct=g)
 
 
-<!-- ### Termos e acordos
-
-Ao iniciar este projeto, você concorda com as diretrizes do Código de Conduta e do Manual da Pessoa Estudante da Trybe.
-
----
-
-# Boas vindas ao repositório do projeto Sistema Solar!
-
-Você já usa o GitHub diariamente para desenvolver os exercícios, certo? Agora, para desenvolver os projetos, você deverá seguir as instruções a seguir. Fique atento a cada passo, e se tiver qualquer dúvida, nos envie por _Slack_! #vqv 🚀
-
-Aqui você vai encontrar os detalhes de como estruturar o desenvolvimento do seu projeto a partir deste repositório, utilizando uma branch específica e um _Pull Request_ para colocar seus códigos.
-
----
-
-
+<!-- 
 # Sumário
 
 - [Boas vindas ao repositório do projeto Sistema Solar!](#boas-vindas-ao-repositório-do-projeto-sistema-solar)
