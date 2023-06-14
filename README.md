@@ -6,7 +6,7 @@ A aplicação simula uma visualização do **Sistema Solar**, bem como informaç
 
 -----
 
-## Habilidades
+### <img height="20" src="https://raw.githubusercontent.com/innng/innng/master/assets/soulgem-sayaka.gif"/> Habilidades:
 
   - Utilizar JSX no React
   - Criar componentes de classe em React
@@ -15,7 +15,7 @@ A aplicação simula uma visualização do **Sistema Solar**, bem como informaç
 
 -----
 
-## 📋 Execute o projeto em sua máquina
+### <img height="20" src="https://raw.githubusercontent.com/innng/innng/master/assets/soulgem-sayaka.gif"/> Execute o projeto em sua máquina:
 
 Clone o repositório
 ```
@@ -39,7 +39,7 @@ npm start
 
 -----
 
-## 🛠️ Ferramentas & Metodologias Utilizadas
+### <img height="20" src="https://raw.githubusercontent.com/innng/innng/master/assets/soulgem-sayaka.gif"/> Ferramentas & Metodologias Utilizadas:
 
   - [React.js](https://reactjs.org/docs/getting-started.html).
 
