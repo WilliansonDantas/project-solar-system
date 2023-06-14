@@ -17,18 +17,22 @@ A aplicação simula uma visualização do **Sistema Solar**, bem como informaç
 
 ## 📋 Execute o projeto em sua máquina
 
-Clone o repositório:
-
+Clone o repositório
 ```
 git clone git@github.com:tryber/sd-021-b-project-solar-system.git
 ```
 
+Acesse o diretório do projeto
 ```
 cd sd-021-b-project-solar-system
 ```
+
+Instale as dependências
 ```
 npm install
 ```
+
+Inicialize o projeto
 ```
 npm start
 ```
